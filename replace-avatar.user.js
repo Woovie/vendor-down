@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vendor down avatar replacement
 // @namespace    http://github.com/
-// @version      1.4
+// @version      1.4.1
 // @description  Replace the avatar image based on a list of usernames of known scam vendors
 // @author       Woovie
 // @match        https://geekhack.org/*
@@ -14,7 +14,7 @@
     'use strict';
 
     const usernames = ["jchan94", "Jaxxstatic"];
-    const replacementImageUrl = "https://github.com/woovie/vendor-down/blob/main/vendor-down.png?raw=true";
+    const replacementImageUrl = "https://raw.githubusercontent.com/woovie/vendor-down/main/vendor-down.png";
 
     const posters = document.querySelectorAll('div.poster');
 
