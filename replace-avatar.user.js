@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vendor down avatar replacement
 // @namespace    http://github.com/
-// @version      1.3
+// @version      1.4
 // @description  Replace the avatar image based on a list of usernames of known scam vendors
 // @author       Woovie
 // @match        https://geekhack.org/*
