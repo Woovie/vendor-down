@@ -14,7 +14,7 @@
     'use strict';
 
     const usernames = ["jchan94", "Jaxxstatic"];
-    const replacementImageUrl = "https://github.com/woovie/vendor-down/blob/main/vendor-down.png";
+    const replacementImageUrl = "https://github.com/woovie/vendor-down/blob/main/vendor-down.png?raw=true";
 
     const posters = document.querySelectorAll('div.poster');
 
